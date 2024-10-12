@@ -1,4 +1,4 @@
-# ASP .NET Web Application deployment using 
+# ASP .NET Web Application deployment using K8s
 ASP.NET Web application deployment on Azure Kubernetes Services
 
 Azure Kubernetes Services:
